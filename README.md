@@ -1,2 +1,2 @@
-main.ipynb - обработка и обучение модели
+main.ipynb - обработка и обучение модели, чтобы начать обучение необходимо скачать данные (https://www.kaggle.com/datasets/zippyz/cats-and-dogs-breeds-classification-oxford-dataset) и распаковать их в data/oxford (если папки не существует, её необходимо создать) 
 cvcat.ipynb - обнаружение лиц кошек и определение их пород
